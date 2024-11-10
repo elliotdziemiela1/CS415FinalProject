@@ -5,7 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/ELLIOTDZIEMIELA/Desktop/CS415FinalProject/CS415FinalProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/ELLIOTDZIEMIELA/Desktop/CS415FinalProject/CS415FinalProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/ELLIOTDZIEMIELA/Desktop/CS415FinalProject/CS415FinalProject/Content/Icons/carrotIcon.uasset",
+				"C:/Users/ELLIOTDZIEMIELA/Desktop/CS415FinalProject/CS415FinalProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/ELLIOTDZIEMIELA/Desktop/CS415FinalProject/CS415FinalProject/Content/Blueprints/Widgets/WB_HUD.uasset",
+				"C:/Users/ELLIOTDZIEMIELA/Desktop/CS415FinalProject/CS415FinalProject/Content/Blueprints/WB_HUD.uasset",
+				"C:/Users/ELLIOTDZIEMIELA/Desktop/CS415FinalProject/CS415FinalProject/Content/Databases/DB_Icons.uasset",
+				"C:/Users/ELLIOTDZIEMIELA/Desktop/CS415FinalProject/CS415FinalProject/Content/Blueprints/Widgets/WB_InventoryEntry.uasset"
 			]
 		}
 	]
